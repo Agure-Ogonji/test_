@@ -1,3 +1,1 @@
 # Habari
-
-# Adyeeri is Amazing
